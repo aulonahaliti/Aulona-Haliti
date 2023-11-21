@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aulonahaliti98@gmail.com**
 
-- 🏹 My hobbies are: **Photography, Archery, Reading, Walking in Nature and Camping.**
+- 🏹 My hobbies are: **Photography, Archery, Reading, Walking in Nature, Volunteering and Camping.**
 
 - ⚡ Fun fact **My friends used to call me "🎄" because of my hair**
 
