@@ -17,7 +17,7 @@
 
 - 🏹 My hobbies are: **Photography, Archery, Reading, Walking in Nature, Volunteering and Camping.**
 
-- ⚡ Fun fact **My friends used to call me "🎄" because of my hair**
+- ⚡ Fun fact **My friends used to call me "bredh-🎄" because of my hair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
