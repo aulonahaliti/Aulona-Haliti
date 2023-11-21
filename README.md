@@ -1,7 +1,5 @@
 <h1 align="center">Hey there👋, I'm Aulona!</h1>
-<h3 align="center">A passionate "frontend developer" from Pristina, Kosovo.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aulonahaliti&label=Profile%20views&color=0e75b6&style=flat" alt="aulonahaliti" /> </p>
+<h3 align="center">A passionate beginner in programming from Pristina, Kosovo.</h3>
 
 - 🔭 I’m currently studying **Pharmacy.**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **aulonahaliti98@gmail.com**
 
-- ⚡ Fun fact **My friends call me "Christmas tree" because of my hair**
+- ⚡ Fun fact **My friends used to call me "🎄" because of my hair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
