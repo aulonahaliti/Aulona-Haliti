@@ -1,15 +1,15 @@
 <h1 align="center">Hey there👋, I'm Aulona!</h1>
 <h3 align="center">A passionate beginner in programming from Pristina, Kosovo.</h3>
 
-- 🔭 I’m currently studying **Pharmacy.**
+- 💊 I’m currently studying **Pharmacy.**
 
-- 🌱 I’m currently learning **JavaScript**
+- 💻 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **different projects from jCoders**
+- 👩‍💻 I’m looking to collaborate on **different projects from jCoders**
 
 - 🤝 I’m looking for help with **different ways of how to improve my skills in JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aulonahaliti](https://github.com/aulonahaliti)
+- 📎 All of my projects are available at [https://github.com/aulonahaliti](https://github.com/aulonahaliti)
 
 - 💬 Ask me about **anything, I'll try my best to help you!**
 
