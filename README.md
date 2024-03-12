@@ -17,8 +17,6 @@
 
 - 🏹 My hobbies are: **Photography, Archery, Reading, Walking in Nature, Volunteering and Camping.**
 
-- ⚡ Fun fact **My friends used to call me "bredh-🎄" because of my hair**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aulonahaliti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aulonahaliti_" height="30" width="40" /></a>
